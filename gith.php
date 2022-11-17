@@ -1,3 +1,3 @@
 <?php
 
-echo 'jhupgehv';
+echo 'fuck you';
