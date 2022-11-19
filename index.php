@@ -1,8 +1,7 @@
 <?php
 $class=[
-    'alina',
-    'erke',
-    'sevara'
-]
-
+    789,
+    565,
+    879
+];
 ?>
